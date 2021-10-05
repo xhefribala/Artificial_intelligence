@@ -15,3 +15,6 @@ Submit your short essay in Canvas in pdf format with the following file name con
 xxxx_short_essay.pdf   replace xxxx with your student number - for example
 
 4321_short_essay.pdf
+
+
+## My essay is about #4 Artificial stupidity. How can we guard against mistakes?
