@@ -6,3 +6,4 @@
 * AI Essay [here](https://github.com/xhefribala/Artificial_intelligence/tree/https/github.com/XB-bit/XhefriBala/Essay)
 * Weekly Activities [here](https://github.com/xhefribala/Artificial_intelligence/tree/https/github.com/XB-bit/XhefriBala/Activities)
 
+😄👨‍💻
