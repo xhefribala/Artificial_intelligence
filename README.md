@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+# Artificial Intelligence
 
 * Logistic Regression [here](https://github.com/xhefribala/Artificial_intelligence/tree/https/github.com/XB-bit/XhefriBala/Logistic%20Regression)
 * Linear Regression [here](https://github.com/xhefribala/Artificial_intelligence/tree/https/github.com/XB-bit/XhefriBala/Linear%20Regression)
