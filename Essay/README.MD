@@ -17,4 +17,4 @@ xxxx_short_essay.pdf   replace xxxx with your student number - for example
 4321_short_essay.pdf
 
 
-## My essay is about #4 Artificial stupidity. How can we guard against mistakes?
+## My [essay](https://github.com/xhefribala/Artificial_intelligence/blob/https/github.com/XB-bit/XhefriBala/Essay/Short_Essay.pdf) is about #4 Artificial stupidity. How can we guard against mistakes?
